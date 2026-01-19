@@ -1,1 +1,14 @@
+# --- generated / changing outputs (do not commit) ---
+outputs/
+*.log
+
+# --- OS/editor junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- temp ---
+*.tmp
+*.swp
 
