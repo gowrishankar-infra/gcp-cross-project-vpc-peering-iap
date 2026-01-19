@@ -1,10 +1,4 @@
 
----
-
-## 4) architecture.md (SRE explain like Google)
-Create `docs/architecture.md`:
-
-```md
 # Architecture — Cross-Project VPC Peering + IAP SSH
 
 ## Goal
