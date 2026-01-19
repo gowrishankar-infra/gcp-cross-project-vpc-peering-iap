@@ -1,2 +1,1 @@
-
 chmod +x scripts/*.sh
